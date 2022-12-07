@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming Python 
 - 🌱 I’m currently learning Swift and Swift UI/UI Kit
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me, you dont. 
+- 📫 How to reach me, email me at daniyal.mikhail@outlook.com
 
 <!---
 DWizard11/DWizard11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
